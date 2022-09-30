@@ -6,7 +6,7 @@ This is the main repository for all work related to Group 2327's Jr Design Proje
 
 Andrew VanNus
 
-A
+Avnee Naik
 
 Jenny Liu 
 
