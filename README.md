@@ -12,4 +12,4 @@ Jenny Liu
 
 M
 
-Shantanu Velmati
+Shantanu Velnati
